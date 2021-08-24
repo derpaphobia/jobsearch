@@ -4,7 +4,7 @@ This is one of the first scripts I wrote on my own, is it totally clean? no.
 I'm pretty sure that platsbanken already has this feature, but I wanted to try doing this on my own for some python training, I run this script myself in a cronjob twice a week.
 
 
-Prerequirements:
+Dependencies:
 pip3 install requests pymongo
 
 This script works by first contacting "platsbankens" (Swedish Public Employement Services webpage for job posts) API.
